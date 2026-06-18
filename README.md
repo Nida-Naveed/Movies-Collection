@@ -132,15 +132,4 @@ Render → https://render.com/
 
 ---
 
-## 👩‍💻 Author
-
-- Your Name
-- GitHub: https://github.com/Nida-Naveed
-
----
-
-## 📜 License
-
-This project is for educational purposes.
-```
 
