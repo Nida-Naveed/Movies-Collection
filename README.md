@@ -7,7 +7,7 @@ Users can add, edit, delete, and rate movies while fetching data from an externa
 
 ## 🌐 Live Demo
 
-👉 https://your-app.onrender.com
+👉 https://movies-collection-a1oc.onrender.com/
 
 ---
 
@@ -128,7 +128,7 @@ Movie:
 
 Deployed using:
 
-Render → https://movies-collection-a1oc.onrender.com/
+Render → https://render.com/
 
 ---
 
